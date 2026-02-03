@@ -1,7 +1,7 @@
 
 
 ## Objective
-[Brief Objective - Remove this afterwards]
+
 
 The Active Directory project aimed to establish a controlled environment for simulating and detecting cyber attacks on splunk. Setting up an Active Directory (home lab) that includes Splunk and Kali Linux. Explored how a domain environment works, learned how to ingest events to a SIEM and generate telemetry related to attacks seen in the wild that would help me detect them in the future.
 ### Skills Learned
