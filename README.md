@@ -3,8 +3,7 @@
 ## Objective
 [Brief Objective - Remove this afterwards]
 
-The Active Directory project aimed to establish a controlled environment for simulating and detecting cyber attacks on splunk. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security.
-
+The Active Directory project aimed to establish a controlled environment for simulating and detecting cyber attacks on splunk. Setting up an Active Directory (home lab) that includes Splunk and Kali Linux. Explored how a domain environment works, learned how to ingest events to a SIEM and generate telemetry related to attacks seen in the wild that would help me detect them in the future.
 ### Skills Learned
 
 
