@@ -1,4 +1,4 @@
-<img width="656" height="590" alt="Error when opening windows server" src="https://github.com/user-attachments/assets/a368cba6-da86-4450-a8eb-25fa0c8ae910" /># Active Directory Lab
+
 
 ## Objective
 [Brief Objective - Remove this afterwards]
